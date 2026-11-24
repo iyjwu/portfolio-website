@@ -25,7 +25,7 @@ export default function Footer({ theme = 'light' }) {
     },
     {
       label: 'GitHub',
-      href: 'https://github.com/yinol1',
+      href: 'https://github.com/iyjwu',
       icon: isDark ? githubWhite : githubBlack,
       alt: 'GitHub icon'
     }

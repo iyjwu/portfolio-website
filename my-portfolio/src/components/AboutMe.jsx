@@ -55,7 +55,7 @@ export default function About({ theme = 'light' }) {
       alt: 'LinkedIn logo'
     },
     {
-      href: 'https://github.com/yinol1',
+      href: 'https://github.com/iyjwu',
       label: 'GitHub',
       icon: isDark ? githubWhite : githubBlack,
       alt: 'GitHub logo'
